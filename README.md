@@ -25,15 +25,14 @@ This repository demonstrates a simple **CI/CD pipeline** using Jenkins.
    docker build -t myapp .
 
 ---
-### ✅ App Running
-![App Running](screenshots/app_running.png)
+## 📸 Screenshots
 
-### 🌐 Browser Output (5000 port)
-![Browser Output 5000](screenshots/browser_output(5000 port).png)
+| App Running | Browser Output (5000 port) |
+|-------------|-----------------------------|
+| ![App Running](screenshots/app_running.png) | ![Browser Output 5000](screenshots/browser_output_5000.png) |
 
-### 🌐 Browser Output (9090 port)
-![Browser Output 9090](screenshots/browser_output(9090 port).png)
+| Browser Output (9090 port) | Pipeline Success |
+|----------------------------|------------------|
+| ![Browser Output 9090](screenshots/browser_output_9090.png) | ![Pipeline Success](screenshots/pipeline_success.png) |
 
-### 🚀 Pipeline Success
-![Pipeline Success](screenshots/pipeline_success.png)
 
